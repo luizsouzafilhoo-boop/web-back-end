@@ -20,3 +20,5 @@ else {
 echo "Média". $media. "<br>";
 echo "frequencia". $frequencia. "%<br>";
 echo "Resultado". $resultado;
+
+?>
